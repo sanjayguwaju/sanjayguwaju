@@ -14,29 +14,22 @@
   <img align="left" alt="Sanjay's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
-
-
-
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
+A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Bsc.IT Undergrade student at ISMT, Kathmandu
-- 🌱 I’m currently exploring Javascript with a big interest in Node.js and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently a Bsc.IT Undergraduate student at ISMT, Kathmandu
+- 🌱 I’m currently exploring Javascript with a big interest in Node.js and Data Structures and Algorithms.
+- 🤔 My interest lies in front end Web Development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sanjayguwaju@gmail.com](mailto:sanjayguwaju@gmail.com).
 
-
-
-**Languages and Tools:**  
-
+**Languages and Tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
@@ -52,6 +45,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayguwaju&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayguwaju&count_private=true&theme=radical" alt="Jas-Script" />
 
-----
+---
 
 Last Edited on: 04/01/2021
