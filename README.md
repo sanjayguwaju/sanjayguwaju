@@ -38,55 +38,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <!-- Languages and Tools Section -->
-<p align="left">
-    <a href="https://codepen.io/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://dev.to/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://twitter.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://linkedin.com/in/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://stackoverflow.com/users/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://codesandbox.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://fb.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://instagram.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://medium.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://www.youtube.com/c/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://www.hackerearth.com/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-
-    <a href="https://discord.gg/sanjayguwaju" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanjayguwaju" height="30" width="40" />
-    </a>
-</p>
+[![Codepen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/sanjayguwaju)
+[![Dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/sanjayguwaju)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/sanjayguwaju)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/sanjayguwaju)
+[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/sanjayguwaju)
+[![CodeSandbox](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg)](https://codesandbox.com/sanjayguwaju)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/sanjayguwaju)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/sanjayguwaju)
+[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/sanjayguwaju)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/sanjayguwaju)
+[![HackerEarth](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg)](https://www.hackerearth.com/sanjayguwaju)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/sanjayguwaju)
 
 
 <h3 align="left">Languages and Tools:</h3>
