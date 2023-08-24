@@ -7,6 +7,12 @@
     <img src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayguwaju" /> 
 </p>
 
+<p>
+    <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
+    alt="sanjayguwaju" />
+</p>
+
 <!-- Twitter Badge -->
 <p align="left"> 
     <a href="https://twitter.com/sanjayguwaju" target="blank">
@@ -314,11 +320,7 @@
     <img align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayguwaju&show_icons=true&locale=en&layout=compact" alt="sanjayguwaju" />
 </p>
-<p>
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-    alt="sanjayguwaju" />
-</p>
+
 <p>
     <img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayguwaju&" 
