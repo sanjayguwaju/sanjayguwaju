@@ -7,12 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayguwaju" /> 
 </p>
 
-<p>
-    <p>
-        <img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-        alt="sanjayguwaju" />
-    </p>
+<p align="center">
+    <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
+    alt="sanjayguwaju" />
 </p>
 
 <!-- Twitter Badge -->
