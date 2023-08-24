@@ -22,7 +22,7 @@
 </p>
 
 <!-- About Me and Skills -->
-- 🌱 I’m currently learning **MERN Stack, Python with Django.**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.sanjayguwaju.com.np/](https://www.sanjayguwaju.com.np/)
 
