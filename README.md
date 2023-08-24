@@ -47,7 +47,15 @@
     width="40" 
 /></a>
 
-<a href="https://dev.to/sanjayguwaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanjayguwaju" height="30" width="40" /></a>
+<a 
+    href="https://dev.to/sanjayguwaju" 
+    target="blank"><img align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" 
+    alt="sanjayguwaju" 
+    height="30" 
+    width="40" 
+/></a>
+
 <a href="https://twitter.com/sanjayguwaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayguwaju" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjayguwaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjayguwaju" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sanjayguwaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanjayguwaju" height="30" width="40" /></a>
