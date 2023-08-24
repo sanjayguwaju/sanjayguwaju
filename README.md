@@ -135,28 +135,11 @@
             width="40" 
             height="40"/>
     </a><a 
-        href="https://www.blender.org/" 
-        target="_blank" rel="noreferrer">
-        <img 
-            src="https://download.blender.org/branding/community/blender_community_badge_white.svg" 
-            alt="blender" 
-            width="40" 
-            height="40"/>
-    </a><a 
         href="https://getbootstrap.com" 
         target="_blank" 
         rel="noreferrer">
         <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://circleci.com" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" 
-            alt="circleci" 
             width="40" 
             height="40"/>
     </a><a 
@@ -177,24 +160,6 @@
             alt="d3js" 
             width="40" 
             height="40"/>
-    </a><a 
-        href="https://www.djangoproject.com/" 
-        target="_blank" rel="noreferrer">
-        <img 
-            src="https://cdn.worldvectorlogo.com/logos/django.svg" 
-            alt="django" 
-            width="40" 
-            height="40"
-        />
-    </a><a 
-        href="https://www.electronjs.org" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" 
-            width="40" 
-            height="40"
-        />
     </a><a 
         href="https://expressjs.com" 
         target="_blank" 
@@ -230,16 +195,6 @@
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
             alt="graphql" width="40" height="40"/>
     </a><a 
-        href="https://heroku.com" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" 
-            alt="heroku" 
-            width="40" 
-            height="40"
-        />
-    </a><a 
         href="https://www.w3.org/html/" 
         target="_blank" 
         rel="noreferrer">
@@ -248,30 +203,11 @@
             width="40" 
             height="40"/>
     </a><a 
-        href="https://www.adobe.com/in/products/illustrator.html" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-            alt="illustrator" 
-            width="40" 
-            height="40"
-        />
-    </a><a 
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
         target="_blank" 
         rel="noreferrer">
         <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://www.jenkins.io" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
-            alt="jenkins" 
             width="40" 
             height="40"/>
     </a><a 
@@ -301,15 +237,6 @@
             width="40" 
             height="40"/>
     </a><a 
-        href="https://www.microsoft.com/en-us/sql-server" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-            alt="mssql" 
-            width="40" 
-            height="40"/>
-    </a><a 
         href="https://www.mysql.com/" 
         target="_blank" 
         rel="noreferrer">
@@ -323,15 +250,6 @@
         rel="noreferrer">
         <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://www.photoshop.com/en" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
-            alt="photoshop" 
             width="40" 
             height="40"/>
     </a><a 
@@ -349,15 +267,6 @@
         <img 
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
             alt="postman" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://www.python.org" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-            alt="python" 
             width="40" 
             height="40"/>
     </a><a 
@@ -396,30 +305,12 @@
             width="40" 
             height="40"/>
     </a><a 
-        href="https://travis-ci.org" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" 
-            alt="travisci" 
-            width="40" 
-            height="40"/>
-    </a><a 
         href="https://webpack.js.org" 
         target="_blank" 
         rel="noreferrer">
         <img 
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" 
             alt="webpack" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://www.adobe.com/products/xd.html" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
-            alt="xd" 
             width="40" 
             height="40"/>
     </a>
@@ -435,7 +326,6 @@
     src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
     alt="sanjayguwaju" />
 </p>
-
 <p>
     <img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayguwaju&" 
