@@ -8,9 +8,11 @@
 </p>
 
 <p>
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-    alt="sanjayguwaju" />
+    <p>
+        <img align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
+        alt="sanjayguwaju" />
+    </p>
 </p>
 
 <!-- Twitter Badge -->
