@@ -10,7 +10,9 @@
 <p align="center">
     <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-    alt="sanjayguwaju" />
+    alt="sanjayguwaju" 
+    height="30"
+    width="40"/>
 </p>
 
 <!-- Twitter Badge -->
@@ -260,15 +262,6 @@
             width="40" 
             height="40"/>
     </a><a 
-            href="https://postman.com" 
-            target="_blank" 
-            rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-            alt="postman" 
-            width="40" 
-            height="40"/>
-    </a><a 
         href="https://reactjs.org/" 
         target="_blank" 
         rel="noreferrer">
@@ -283,15 +276,6 @@
         <img 
             src="https://reactnative.dev/img/header_logo.svg" 
             alt="reactnative" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://sass-lang.com" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
-            alt="sass" 
             width="40" 
             height="40"/>
     </a><a 
