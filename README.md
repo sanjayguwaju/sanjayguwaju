@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Nepal.</h3>
 
 <!-- Profile Views Counter -->
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayguwaju" /> 
 </p>
 
