@@ -7,8 +7,8 @@
     <img 
     src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" 
     alt="sanjayguwaju"
-    height="60"
-    width="60"/> 
+    height="40"
+    width="100"/> 
 </p>
 
 <p align="center">
