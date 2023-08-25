@@ -20,7 +20,11 @@
 <!-- Twitter Badge -->
 <p align="left"> 
     <a href="https://twitter.com/sanjayguwaju" target="blank">
-        <img src="https://img.shields.io/twitter/follow/sanjayguwaju?logo=twitter&style=for-the-badge" alt="sanjayguwaju" />
+        <img 
+        src="https://img.shields.io/twitter/follow/sanjayguwaju?logo=twitter&style=for-the-badge" 
+        alt="sanjayguwaju"
+        height="35"
+         />
     </a> 
 </p>
 
@@ -261,15 +265,6 @@
         rel="noreferrer">
         <img 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
-            width="40" 
-            height="40"/>
-    </a><a 
-        href="https://reactnative.dev/" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://reactnative.dev/img/header_logo.svg" 
-            alt="reactnative" 
             width="40" 
             height="40"/>
     </a><a 
