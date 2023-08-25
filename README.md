@@ -130,14 +130,6 @@
 
 <p align="left">
     <a 
-        href="https://www.gnu.org/software/bash/" 
-        target="_blank" rel="noreferrer">
-        <img 
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
-            alt="bash" 
-            width="40" 
-            height="40"/>
-    </a><a 
         href="https://getbootstrap.com" 
         target="_blank" 
         rel="noreferrer">
@@ -289,15 +281,6 @@
             alt="tailwind" 
             width="40" 
             height="40"/>
-    </a><a 
-        href="https://webpack.js.org" 
-        target="_blank" 
-        rel="noreferrer">
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" 
-            alt="webpack" 
-            width="40" 
-            height="40"/>
     </a>
 </p>
 
@@ -307,7 +290,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayguwaju&show_icons=true&locale=en&layout=compact" alt="sanjayguwaju" />
 </p> -->
 
-<p>
+<p align="center">
     <img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayguwaju&" 
     alt="sanjayguwaju" />
