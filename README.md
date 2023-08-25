@@ -4,15 +4,17 @@
 
 <!-- Profile Views Counter -->
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayguwaju" /> 
+    <img 
+    src="https://komarev.com/ghpvc/?username=sanjayguwaju&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="sanjayguwaju"
+    height="60"
+    width="60"/> 
 </p>
 
 <p align="center">
     <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=sanjayguwaju&show_icons=true&locale=en" 
-    alt="sanjayguwaju" 
-    height="30"
-    width="40"/>
+    alt="sanjayguwaju" />
 </p>
 
 <!-- Twitter Badge -->
